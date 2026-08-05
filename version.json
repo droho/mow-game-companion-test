@@ -1,0 +1,22 @@
+{
+  "schema": "mow.gc.static_deployment",
+  "schema_version": "0.1.0",
+  "public_version": "0.1.0-dev.5",
+  "runtime_build_id": "GC-SSC-02-SSC02C-R1-2026-08-05",
+  "package_revision": "SSC02C-R2-HOSTING-CORRECTION-2026-08-05",
+  "legacy_ref": "GAME-0H.COV4C-BLACK-ARK-RUNTIME-CORRECTED-R1-2026-07-27",
+  "default_locale": "en",
+  "supported_locales": [
+    "en",
+    "pl"
+  ],
+  "canonical_production_url": "https://game-companion.mowfleetbuilder.com/",
+  "exact_production_origin": "https://game-companion.mowfleetbuilder.com",
+  "production_approval_status": "APPROVED_NOT_DEPLOYED",
+  "test_preview_platform": "GITHUB_PAGES",
+  "test_preview_url": "TBD_AT_PUBLICATION",
+  "test_preview_status": "NOT_PUBLISHED",
+  "diagnostic_distribution": "LOCAL_ONLY",
+  "public_index_sha256": "e8583fae6c48d1077e17e46ccaebde66593f4dbe94f85e38b4ba96e17ec5b89a",
+  "diagnostic_index_sha256": "7b7f05d861f2272759c50a5348e2f47659975503542f7df869c79071255aa016"
+}
